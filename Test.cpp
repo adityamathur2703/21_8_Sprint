@@ -7,7 +7,7 @@ TEST(CalculateFuelInjectionDuration, FuelInjection)
     DataContainer data=initalized();
     EXPECT_EQ(CalculateFuelInjectionDuration(data), 1);
 }
-int main()
+int main(void)
 {
     DataContainer data;
     CalculateFuelInjectionDuration(data);
