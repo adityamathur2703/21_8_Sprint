@@ -1,0 +1,7 @@
+/home/kpit/Desktop/TEST_KATAPULT/21_08/Ques_5/CMakeFiles/rebuild_cache.dir
+/home/kpit/Desktop/TEST_KATAPULT/21_08/Ques_5/CMakeFiles/edit_cache.dir
+/home/kpit/Desktop/TEST_KATAPULT/21_08/Ques_5/CMakeFiles/test.dir
+/home/kpit/Desktop/TEST_KATAPULT/21_08/Ques_5/CMakeFiles/Engine.dir
+/home/kpit/Desktop/TEST_KATAPULT/21_08/Ques_5/CMakeFiles/DataContainer.dir
+/home/kpit/Desktop/TEST_KATAPULT/21_08/Ques_5/CMakeFiles/app.dir
+/home/kpit/Desktop/TEST_KATAPULT/21_08/Ques_5/CMakeFiles/functionalities.dir

@@ -1,0 +1,1 @@
+/usr/bin/c++     CMakeFiles/app.dir/Test.cpp.o  -o app  /usr/local/lib/libgtest.a -lpthread libfunctionalities.a libEngine.a libDataContainer.a -lpthread 

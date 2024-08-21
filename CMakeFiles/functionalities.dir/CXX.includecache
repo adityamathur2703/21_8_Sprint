@@ -1,0 +1,42 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+/home/kpit/Desktop/TEST_KATAPULT/21_08/Ques_5/DataInitialized.h
+Functionalities.h
+/home/kpit/Desktop/TEST_KATAPULT/21_08/Ques_5/Functionalities.h
+
+/home/kpit/Desktop/TEST_KATAPULT/21_08/Ques_5/Engine_Control_Unit.h
+ostream
+-
+iostream
+-
+
+/home/kpit/Desktop/TEST_KATAPULT/21_08/Ques_5/Functionalities.cpp
+Functionalities.h
+/home/kpit/Desktop/TEST_KATAPULT/21_08/Ques_5/Functionalities.h
+iostream
+-
+map
+-
+algorithm
+-
+numeric
+-
+DataInitialized.h
+/home/kpit/Desktop/TEST_KATAPULT/21_08/Ques_5/DataInitialized.h
+
+/home/kpit/Desktop/TEST_KATAPULT/21_08/Ques_5/Functionalities.h
+Engine_Control_Unit.h
+/home/kpit/Desktop/TEST_KATAPULT/21_08/Ques_5/Engine_Control_Unit.h
+iostream
+-
+vector
+-
+memory
+-
+

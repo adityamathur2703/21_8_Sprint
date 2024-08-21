@@ -1,0 +1,18 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+/home/kpit/Desktop/TEST_KATAPULT/21_08/Ques_5/Engine_Control_Unit.cpp
+Engine_Control_Unit.h
+/home/kpit/Desktop/TEST_KATAPULT/21_08/Ques_5/Engine_Control_Unit.h
+
+/home/kpit/Desktop/TEST_KATAPULT/21_08/Ques_5/Engine_Control_Unit.h
+ostream
+-
+iostream
+-
+
